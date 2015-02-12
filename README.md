@@ -15,7 +15,7 @@ Getting started
 
 `juju` is written in Go (http://golang.org), a modern, compiled, statically typed,
 concurrent language. This document describes how to build `juju` from source.
-
+e
 If you are looking for binary releases of `juju`, they are available from the Juju
 stable PPA, `https://launchpad.net/~juju/+archive/stable`, and can be installed with:
 
